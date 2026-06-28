@@ -33,17 +33,7 @@ Regional performance also varies considerably, with East recording the lowest sa
 
 ---
 
-# Risks Identified
 
-The Discount vs Profit analysis demonstrates that higher discount levels generally reduce profitability. Aggressive discounting increases sales volume but 
-negatively impacts profit margins.
-
-Return analysis reveals that Furniture products experience the highest return rates, particularly within the Home Office customer segment where the return
-rate reaches **9.14%**. High return rates increase operational costs and reduce customer profitability.
-
-Shipping performance also indicates variation across shipping modes, suggesting opportunities to improve delivery efficiency and customer satisfaction.
-
----
 
 # Business Opportunities
 
